@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9S8AJ
 Tags: static
 Requires at least: 3.5
 Tested up to: 3.5.1
-Stable tag: 0.4.0
+Stable tag: 0.4.1
 
 Transform your WordPress into static websites and blogs.
 
@@ -24,7 +24,18 @@ If you have translated into your language, please let me know.
 1. Upload the entire `staticpress` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' menu in WordPress.
 
+== Frequently Asked Questions ==
+
+none
+
+== Screenshots ==
+
+1. The admin page
+
 == Changelog == 
 
-**0.4.0 - May 20, 2013**  
+**0.4.1 -June 6, 2013**
+ignore wp-admin/index.html
+
+**0.4.0 - May 14, 2013**  
 Initial release.
