@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=9S8AJ
 Tags: static
 Requires at least: 3.5
 Tested up to: 3.5.1
-Stable tag: 0.4.1
+Stable tag: 0.4.2
 
 Transform your WordPress into static websites and blogs.
 
@@ -30,12 +30,16 @@ none
 
 == Screenshots ==
 
-1. The admin page
+1. Sidebar menu
+
+2. The admin page
+
+3. Rebuild!
 
 == Changelog == 
 
-**0.4.1 -June 6, 2013**
-ignore wp-admin/index.html
+**0.4.2 - June 7, 2013**
+source code refactoring
 
 **0.4.0 - May 14, 2013**  
 Initial release.
